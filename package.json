@@ -1,0 +1,27 @@
+{
+  "name": "elements-of-html",
+  "version": "0.0.0",
+  "description": "A list of HTML and XHTML elements, past and present",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w3c/elements-of-html.git"
+  },
+  "author": {
+    "name": "Steve Faulkner (editor)"
+  },
+  "contributors": [
+    {"name": "Jens O. Meiert"},
+    {"name": "Deblyn Prado"},
+    {"name": "Michael Steidl"},
+    {"name": "Manuel Strehl"},
+    {"name": "Sime Vidas"}
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3c/elements-of-html/issues"
+  },
+  "homepage": "http://w3c.github.io/elements-of-html/",
+  "dependencies": {
+    "jsdom": "^0.11.1"
+  }
+}
