@@ -32,6 +32,8 @@
 	 td a {display:inline-block; width:100%;height:100%;margin:0px;}
 	a:hover , a:focus {background-color:#99FF99; outline:dashed thin #030;}
 	 
+	.yes {background-color: #9f9;}
+	.no  {background-color: #f99;}
 	    </style>
 		<link href="http://www.w3.org/StyleSheets/TR/w3c-unofficial" rel="stylesheet" type="text/css"/>
 	</head>
@@ -1961,7 +1963,7 @@
 	</footer>
 	<script>
 		[].slice.call(document.querySelector('main').querySelectorAll('img')).forEach(function (img) { 
-			img.offsetParent.style.backgroundColor = img.title === 'yes' ? '#9f9' : '#f99'; 
+			img.offsetParent.className += img.title === 'yes' ? 'yes' : 'no';
 		});
 	</script>
 	
