@@ -1,6 +1,7 @@
 [
   {
     "element": "a",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-a-element",
     "specs": [
       "2.0",
       "3.2",
@@ -8,18 +9,20 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "abbr",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-abbr-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-abbr-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -33,7 +36,7 @@
   },
   {
     "element": "address",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-address-element",
+    "link": "https://w3c.github.io/html/sections.html#the-address-element",
     "specs": [
       "2.0",
       "3.2",
@@ -41,7 +44,8 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -55,43 +59,47 @@
   },
   {
     "element": "area",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-map-element.html#the-area-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-area-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "article",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-article-element",
+    "link": "https://w3c.github.io/html/sections.html#the-article-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "aside",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-aside-element",
+    "link": "https://w3c.github.io/html/sections.html#the-aside-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "audio",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-audio-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-audio-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "b",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-b-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-b-element",
     "specs": [
       "2.0",
       "3.2",
@@ -99,12 +107,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "base",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-base-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-base-element",
     "specs": [
       "2.0",
       "3.2",
@@ -112,7 +121,8 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -126,21 +136,23 @@
   },
   {
     "element": "bdi",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-bdi-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-bdi-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "bdo",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-bdo-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-bdo-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -155,7 +167,7 @@
   },
   {
     "element": "blockquote",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-blockquote-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-blockquote-element",
     "specs": [
       "2.0",
       "3.2",
@@ -163,12 +175,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "body",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-body-element",
+    "link": "https://w3c.github.io/html/sections.html#the-body-element",
     "specs": [
       "2.0",
       "3.2",
@@ -176,12 +189,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "br",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-br-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-br-element",
     "specs": [
       "2.0",
       "3.2",
@@ -189,38 +203,42 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "button",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-button-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-button-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "canvas",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-canvas-element.html#the-canvas-element",
+    "link": "https://w3c.github.io/html/the-canvas-element.html#the-canvas-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "caption",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-caption-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-caption-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -234,7 +252,7 @@
   },
   {
     "element": "cite",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-cite-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-cite-element",
     "specs": [
       "2.0",
       "3.2",
@@ -242,12 +260,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "code",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-code-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-code-element",
     "specs": [
       "2.0",
       "3.2",
@@ -255,50 +274,55 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "col",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-col-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-col-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "colgroup",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-colgroup-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-colgroup-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "data",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-data-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-data-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "datalist",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-datalist-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-datalist-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "dd",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dd-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-dd-element",
     "specs": [
       "2.0",
       "3.2",
@@ -306,44 +330,48 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "del",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-del-element",
+    "link": "https://w3c.github.io/html/edits.html#the-del-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "details",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-details-element",
+    "link": "https://w3c.github.io/html/interactive-elements.html#the-details-element",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "dfn",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-dfn-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-dfn-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "dialog",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/commands.html#the-dialog-element",
+    "link": "https://w3c.github.io/html/interactive-elements.html#the-dialog-element",
     "specs": [
-      "5.1"
+      "5.2"
     ]
   },
   {
@@ -358,19 +386,20 @@
   },
   {
     "element": "div",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-div-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-div-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "dl",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dl-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-dl-element",
     "specs": [
       "2.0",
       "3.2",
@@ -378,12 +407,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "dt",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dt-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-dt-element",
     "specs": [
       "2.0",
       "3.2",
@@ -391,12 +421,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "em",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-em-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-em-element",
     "specs": [
       "2.0",
       "3.2",
@@ -404,42 +435,47 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "embed",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-embed-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-embed-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "fieldset",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-fieldset-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-fieldset-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "figcaption",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-figcaption-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-figcaption-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "figure",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-figure-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-figure-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -453,15 +489,16 @@
   },
   {
     "element": "footer",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-footer-element",
+    "link": "https://w3c.github.io/html/sections.html#the-footer-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "form",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#the-form-element",
+    "link": "https://w3c.github.io/html/forms.html#the-form-element",
     "specs": [
       "2.0",
       "3.2",
@@ -469,7 +506,8 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -488,7 +526,7 @@
   },
   {
     "element": "h1",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h1-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h1-element",
     "specs": [
       "2.0",
       "3.2",
@@ -496,12 +534,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "h2",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h2-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h2-element",
     "specs": [
       "2.0",
       "3.2",
@@ -509,12 +548,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "h3",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h3-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h3-element",
     "specs": [
       "2.0",
       "3.2",
@@ -522,12 +562,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "h4",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h4-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h4-element",
     "specs": [
       "2.0",
       "3.2",
@@ -535,12 +576,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "h5",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h5-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h5-element",
     "specs": [
       "2.0",
       "3.2",
@@ -548,12 +590,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "h6",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h6-element",
+    "link": "https://w3c.github.io/html/sections.html#the-h6-element",
     "specs": [
       "2.0",
       "3.2",
@@ -561,12 +604,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "head",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-head-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-head-element",
     "specs": [
       "2.0",
       "3.2",
@@ -574,25 +618,27 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "header",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-header-element",
+    "link": "https://w3c.github.io/html/sections.html#the-header-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "hgroup",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/obsolete.html#hgroup",
+    "link": "https://w3c.github.io/html/obsolete.html#hgroup",
     "specs": []
   },
   {
     "element": "hr",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-hr-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-hr-element",
     "specs": [
       "2.0",
       "3.2",
@@ -600,12 +646,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "html",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-html-element",
+    "link": "https://w3c.github.io/html/semantics.html#the-html-element",
     "specs": [
       "2.0",
       "3.2",
@@ -613,12 +660,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "i",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-i-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-i-element",
     "specs": [
       "2.0",
       "3.2",
@@ -626,22 +674,24 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "iframe",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-iframe-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-iframe-element",
     "specs": [
       "4.01",
       "X1.0",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "img",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-img-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-img-element",
     "specs": [
       "2.0",
       "3.2",
@@ -649,12 +699,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-input-element.html#the-input-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-input-element",
     "specs": [
       "2.0",
       "3.2",
@@ -662,12 +713,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"hidden\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#hidden-state-(type=hidden)",
+    "link": "https://w3c.github.io/html/sec-forms.html#hidden-state-typehidden",
     "specs": [
       "2.0",
       "3.2",
@@ -675,12 +727,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"text\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#text-(type=text)-state-and-search-state-(type=search)",
+    "link": "https://w3c.github.io/html/sec-forms.html#text-typetext-state-and-search-state-typesearch",
     "specs": [
       "2.0",
       "3.2",
@@ -688,36 +741,40 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"search\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#text-(type=text)-state-and-search-state-(type=search)",
+    "link": "https://w3c.github.io/html/sec-forms.html#text-typetext-state-and-search-state-typesearch",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"tel\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#telephone-state-(type=tel)",
+    "link": "https://w3c.github.io/html/sec-forms.html#telephone-state-typetel",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"url\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#url-state-(type=url)",
+    "link": "https://w3c.github.io/html/sec-forms.html#url-state-typeurl",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"password\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#password-state-(type=password)",
+    "link": "https://w3c.github.io/html/sec-forms.html#password-state-typepassword",
     "specs": [
       "2.0",
       "3.2",
@@ -725,77 +782,90 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"date\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#date-state-(type=date)",
+    "link": "https://w3c.github.io/html/sec-forms.html#date-state-typedate",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"datetime\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#date-and-time-state-(type=datetime)",
+    "link": "https://w3c.github.io/html/sec-forms.html#date-and-time-state-typedatetime",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"datetime-local\"]",
-    "specs": []
+    "link": "https://w3c.github.io/html/sec-forms.html#local-date-and-time-state-typedatetimelocal",
+    "specs": [
+      "5.1",
+      "5.2"
+    ]
   },
   {
     "element": "input[type=\"month\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#month-state-(type=month)",
+    "link": "https://w3c.github.io/html/sec-forms.html#month-state-typemonth",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"week\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#week-state-(type=week)",
+    "link": "https://w3c.github.io/html/sec-forms.html#week-state-typeweek",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"time\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#time-state-(type=time)",
+    "link": "https://w3c.github.io/html/sec-forms.html#time-state-typetime",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"number\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#number-state-(type=number)",
+    "link": "https://w3c.github.io/html/sec-forms.html#number-state-typenumber",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"range\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#range-state-(type=range)",
+    "link": "https://w3c.github.io/html/sec-forms.html#range-state-typerange",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"color\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#color-state-(type=color)",
+    "link": "https://w3c.github.io/html/sec-forms.html#color-state-typecolor",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"checkbox\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#checkbox-state-(type=checkbox)",
+    "link": "https://w3c.github.io/html/sec-forms.html#checkbox-state-typecheckbox",
     "specs": [
       "2.0",
       "3.2",
@@ -803,12 +873,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"radio\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#radio-button-state-(type=radio)",
+    "link": "https://w3c.github.io/html/sec-forms.html#radio-button-state-typeradio",
     "specs": [
       "2.0",
       "3.2",
@@ -816,24 +887,26 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"file\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#file-upload-state-(type=file)",
+    "link": "https://w3c.github.io/html/sec-forms.html#file-upload-state-typefile",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"submit\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#submit-button-state-(type=submit)",
+    "link": "https://w3c.github.io/html/sec-forms.html#submit-button-state-typesubmit",
     "specs": [
       "2.0",
       "3.2",
@@ -841,12 +914,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"image\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#image-button-state-(type=image)",
+    "link": "https://w3c.github.io/html/sec-forms.html#image-button-state-typeimage",
     "specs": [
       "2.0",
       "3.2",
@@ -854,12 +928,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"reset\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#reset-button-state-(type=reset)",
+    "link": "https://w3c.github.io/html/sec-forms.html#reset-button-state-typereset",
     "specs": [
       "2.0",
       "3.2",
@@ -867,29 +942,32 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "input[type=\"button\"]",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#button-state-(type=button)",
+    "link": "https://w3c.github.io/html/sec-forms.html#button-state-typebutton",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "ins",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-ins-element",
+    "link": "https://w3c.github.io/html/edits.html#the-ins-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -904,7 +982,7 @@
   },
   {
     "element": "kbd",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-kbd-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-kbd-element",
     "specs": [
       "2.0",
       "3.2",
@@ -912,42 +990,46 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "keygen",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-keygen-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-keygen-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "label",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#the-label-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-label-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "legend",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-legend-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-legend-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "li",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-li-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-li-element",
     "specs": [
       "2.0",
       "3.2",
@@ -955,12 +1037,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "link",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-link-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-link-element",
     "specs": [
       "2.0",
       "3.2",
@@ -968,58 +1051,64 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "main",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-main-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-main-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "map",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-map-element.html#the-map-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-map-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "mark",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-mark-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-mark-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "menu",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-menu-element",
+    "link": "https://w3c.github.io/html/interactive-elements.html#the-menu-element",
     "specs": [
       "2.0",
       "3.2",
       "4.01",
       "X1.0",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "menuitem",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-menuitem-element",
+    "link": "https://w3c.github.io/html/interactive-elements.html#the-menuitem-element",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "meta",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-meta-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-meta-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1027,23 +1116,26 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "meter",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-meter-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-meter-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "nav",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-nav-element",
+    "link": "https://w3c.github.io/html/sections.html#the-nav-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1063,29 +1155,31 @@
   },
   {
     "element": "noscript",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-noscript-element",
+    "link": "https://w3c.github.io/html/semantics-scripting.html#the-noscript-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "object",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-object-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-object-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "ol",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-ol-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-ol-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1093,23 +1187,25 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "optgroup",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-optgroup-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-optgroup-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "option",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-option-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-option-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1117,20 +1213,22 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "output",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-output-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-output-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "p",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-p-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-p-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1138,26 +1236,29 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "param",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-param-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-param-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "picture",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/embedded-content.html#the-picture-element",
+    "link": "https://w3c.github.io/html/embedded-content.html#the-picture-element",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1170,7 +1271,7 @@
   },
   {
     "element": "pre",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-pre-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-pre-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1178,34 +1279,38 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "progress",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-progress-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-progress-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "q",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-q-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-q-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "rb",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rb-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-rb-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1215,20 +1320,22 @@
   },
   {
     "element": "rp",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rp-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-rp-element",
     "specs": [
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "rt",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rt-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-rt-element",
     "specs": [
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1238,11 +1345,12 @@
   },
   {
     "element": "ruby",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-ruby-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-ruby-element",
     "specs": [
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1252,12 +1360,13 @@
       "4.01",
       "X1.0",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "samp",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-samp-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-samp-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1265,32 +1374,35 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "script",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-script-element",
+    "link": "https://w3c.github.io/html/semantics-scripting.html#the-script-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "section",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-section-element",
+    "link": "https://w3c.github.io/html/sections.html#the-section-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "select",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-select-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-select-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1298,38 +1410,42 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "small",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-small-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-small-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "source",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-source-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-source-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "span",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-span-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-span-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1343,7 +1459,7 @@
   },
   {
     "element": "strong",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-strong-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-strong-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1351,98 +1467,107 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "style",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-style-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-style-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "sub",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-sub-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-sub-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "summary",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-summary-element",
+    "link": "https://w3c.github.io/html/interactive-elements.html#the-summary-element",
     "specs": [
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "sup",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-sup-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-sup-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "table",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-table-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-table-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "tbody",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tbody-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-tbody-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "td",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-td-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-td-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "template",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-template-element",
+    "link": "https://w3c.github.io/html/semantics-scripting.html#the-template-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "textarea",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-textarea-element",
+    "link": "https://w3c.github.io/html/sec-forms.html#the-textarea-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1450,54 +1575,59 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "tfoot",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tfoot-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-tfoot-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "th",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-th-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-th-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "thead",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-thead-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-thead-element",
     "specs": [
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "time",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-time-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-time-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "title",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-title-element",
+    "link": "https://w3c.github.io/html/document-metadata.html#the-title-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1505,27 +1635,30 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "tr",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tr-element",
+    "link": "https://w3c.github.io/html/tabular-data.html#the-tr-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "track",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-track-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-track-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
@@ -1541,18 +1674,19 @@
   },
   {
     "element": "u",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-u-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-u-element",
     "specs": [
       "3.2",
       "4.01",
       "X1.0",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "ul",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-ul-element",
+    "link": "https://w3c.github.io/html/grouping-content.html#the-ul-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1560,12 +1694,13 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "var",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-var-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-var-element",
     "specs": [
       "2.0",
       "3.2",
@@ -1573,23 +1708,26 @@
       "X1.0",
       "X1.1",
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "video",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-video-element",
+    "link": "https://w3c.github.io/html/semantics-embedded-content.html#the-video-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
     "element": "wbr",
-    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-wbr-element",
+    "link": "https://w3c.github.io/html/textlevel-semantics.html#the-wbr-element",
     "specs": [
       "5",
-      "5.1"
+      "5.1",
+      "5.2"
     ]
   },
   {
