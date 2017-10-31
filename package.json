@@ -21,7 +21,11 @@
     "url": "https://github.com/w3c/elements-of-html/issues"
   },
   "homepage": "http://w3c.github.io/elements-of-html/",
-  "dependencies": {
-    "jsdom": "^0.11.1"
+  "main": "elements.json",
+  "scripts": {
+    "json": "./bin/create_json.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
   }
 }
